@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "db": {
+    "host": "localhost",
+    "username": "root",
+    "password": "",
+    "name": "seati_test",
+    "driver": "mysql"
+  }
+}

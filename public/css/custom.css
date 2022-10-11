@@ -1,0 +1,16 @@
+.nav-right-end {
+    display: flex;
+    justify-content: end;
+}
+
+@media (max-width: 991px) {
+    .nav-right-end {
+        justify-content: start;
+    }
+}
+
+@media (max-width: 701px) {
+    .responsiv-display-none {
+        display: none;
+    }
+}
